@@ -1,37 +1,27 @@
 
-### 🌀 - Mes langages de programmation.
-</details>
+### ❄️ - Mes langages de programmation.
+<details>
 <p align="centre">
-<!-- This is for C++ -->
-    <img alt="TypeScript" src="https://img.shields.io/badge/C++-00599C.svg?logo=C&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge">
 </a>
-<!-- This is for C++ -->
-    <img alt="JavaScript" src="https://img.shields.io/badge/C Sharp-239120.svg?logo=csharp&logoColor=white">
-</a>
-<!-- This is for Python -->
-    <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?logo=python&logoColor=white">
-</a>
-<!-- This is for Bash -->
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-4D4D4D.svg?logo=WindowsTerminal&logoColor=white">
-</a>
-<!-- This is for Bash -->
-    <img alt="Batch & Powershell" src="https://img.shields.io/badge/Batch & Powershell-5391FE.svg?logo=PowerShell&logoColor=white">
-</a>
+    <img alt="Python" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge">
 </p>
 </details>
 
-### 👉 Frontend Development.
+
+### 🧊 - Language(s) de programmation en cours d'apprentissage
 <details>
 <p align="centre">
-<!-- This is for HTML5 -->
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white&style=for-the-badge">
 </a>
-<!-- This is for Python -->
-    <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?logo=python&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=white&style=for-the-badge">
 </a>
-<!-- This is for Visual Studio Code -->
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-5C2D91.svg?logo=VisualStudio&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge">
 </a>
+( Oui je sais, un language un peu spécial Haha. )
+    <img alt="Python" src="https://img.shields.io/badge/-BrainFuck-BA478F?logo=MusicBrainz&logoColor=white&style=for-the-badge">
+</a>
+
 </p>
 </details>
 
