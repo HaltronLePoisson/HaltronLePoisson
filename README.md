@@ -30,10 +30,23 @@
 </p>
 </details>
 
-OS
-<img src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge">
 
 
+
+```diff
+Ubisoft
+
+👤 >> Young developper currently learning  offensive Security.
+📧 >> Haltron#9999
+```
+#
+<h1 align="center">TOOLS</h1>
+
+<p align="center"> 
+	<code><img height="25" src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge"></code>&nbsp;|
+	<code><img height="25" src="https://img.shields.io/badge/-Atom-66595C?logo=Atom&logoColor=white&style=for-the-badge"></code>&nbsp;|
+	<code><img height="25" src="https://img.shields.io/badge/-AWS-FF9900?logo=Amazon%20AWS&logoColor=white&style=for-the-badge"></code>&nbsp;
+</p>
 
 
 
