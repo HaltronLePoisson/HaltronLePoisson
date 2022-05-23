@@ -18,7 +18,7 @@
     <img alt="Batch & Powershell" src="https://img.shields.io/badge/Batch & Powershell-5391FE.svg?logo=PowerShell&logoColor=white">
 </a>
 </p>
-</details>
+</Maitrisé ( Ou presque )>
 
 ### 👉 Frontend Development.
 <details>
