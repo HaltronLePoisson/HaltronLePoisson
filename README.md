@@ -68,7 +68,7 @@ Ubisoft
 </p>
     
 
-## 👨‍💻 Github Stats
+## 👨‍💻 Stats - Github
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HaltronLePoisson&show_icons=true&count_private=true">
@@ -80,7 +80,7 @@ Ubisoft
 
 
 
-[![Spotify](https://github.com/edorado93/edorado93/blob/main/spotify.svg)](https://open.spotify.com/user/9e26dolk3590fq0god5akapie)
+
 
 
 <p align="center">
