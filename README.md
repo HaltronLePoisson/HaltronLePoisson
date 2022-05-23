@@ -76,6 +76,11 @@ Ubisoft
 
 
 
+## 🎧 What's Vibin?
+
+[![Spotify](https://github.com/edorado93/edorado93/blob/main/spotify.svg)](https://open.spotify.com/user/9e26dolk3590fq0god5akapie)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
