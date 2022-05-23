@@ -36,8 +36,11 @@
 ```diff
 Ubisoft
 
-👤 >> Young developper currently learning  offensive Security.
+👤 >> Young developper that is currently learning  offensive Security.
+//////
 📧 >> Haltron#9999
+//////
+👔 >> Elyze
 ```
 #
 <h1 align="center">TOOLS</h1>
