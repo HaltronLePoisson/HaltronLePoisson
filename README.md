@@ -1,6 +1,6 @@
 
 ### 🌀 - Mes langages de programmation.
-<Maitrisé>
+</details> Maitrisé ( Ou Presque )
 <p align="centre">
 <!-- This is for C++ -->
     <img alt="TypeScript" src="https://img.shields.io/badge/C++-00599C.svg?logo=C&logoColor=white">
@@ -18,7 +18,7 @@
     <img alt="Batch & Powershell" src="https://img.shields.io/badge/Batch & Powershell-5391FE.svg?logo=PowerShell&logoColor=white">
 </a>
 </p>
-</Maitrisé>
+</details>
 
 ### 👉 Frontend Development.
 <details>
