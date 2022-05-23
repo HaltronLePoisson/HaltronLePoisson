@@ -1,12 +1,12 @@
 
-### 👉 Programming languages.
-<details>
+### 🌀 - Mes langages de programmation.
+<Maitrisé ( Ou presque )>
 <p align="centre">
 <!-- This is for C++ -->
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=C&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/C++-00599C.svg?logo=C&logoColor=white">
 </a>
 <!-- This is for C++ -->
-    <img alt="C#" src="https://img.shields.io/badge/C Sharp-239120.svg?logo=csharp&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/C Sharp-239120.svg?logo=csharp&logoColor=white">
 </a>
 <!-- This is for Python -->
     <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?logo=python&logoColor=white">
