@@ -1,3 +1,8 @@
+<img src="" alt="" style="max-width: 100%;">
+
+
+
+
 
 ### ❄️ - Mes langages de programmation.
 <details>
@@ -24,6 +29,9 @@
 
 </p>
 </details>
+
+OS
+<img src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge">
 
 
 
