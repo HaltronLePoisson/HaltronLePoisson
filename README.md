@@ -1,7 +1,7 @@
 <img src="" alt="" style="max-width: 100%;">
 
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5241F7&background=000000&center=true&multiline=true&width=500&height=100&lines=Salut+!;Je+suis+un+jeune+passionn%C3%A9+d'informatique;N'h%C3%A9site+pas+%C3%A0+aller+%22checker%22+mes+repos+!)](https://git.io/typing-svg)
 
 
 ### ❄️ - Mes langages de programmation.
