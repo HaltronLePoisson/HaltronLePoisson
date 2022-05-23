@@ -33,6 +33,7 @@
 
 
 
+
 ```diff
 Ubisoft
 
@@ -73,4 +74,8 @@ Ubisoft
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaltronLePoisson&hide=css,java">
 
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
 
