@@ -70,8 +70,9 @@ Ubisoft
 ## 👨‍💻 Stats - Github
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HaltronLePoisson&show_icons=true&count_private=true">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaltronLePoisson&hide=css,java">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaltronLePoisson&&theme=dark&background=000000">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HaltronLePoisson&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
