@@ -1,6 +1,6 @@
 
 ### 🌀 - Mes langages de programmation.
-</details> Maitrisé ( Ou Presque )
+</details>
 <p align="centre">
 <!-- This is for C++ -->
     <img alt="TypeScript" src="https://img.shields.io/badge/C++-00599C.svg?logo=C&logoColor=white">
