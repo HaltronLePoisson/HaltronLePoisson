@@ -74,7 +74,7 @@ Ubisoft
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HaltronLePoisson&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img style="width:95%" src="https://wakatime.com/share/@HaltronLePoisson/df104b6a-7038-4e88-9228-cbddc1383f97.svg"></img>
+<img style="width:95%" src="https://wakatime.com/share/HaltronLePoisson/df104b6a-7038-4e88-9228-cbddc1383f97.svg"></img>
 
 
 
