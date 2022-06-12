@@ -39,7 +39,7 @@ Ubisoft 💖
 
 👤 >> Young developper that is currently learning  offensive Security.
 //////
-📧 >> kAzen#2120
+📧 >> kakazen#1580
 //////
 👔 >> Elyze
 ```
